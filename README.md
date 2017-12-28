@@ -1,13 +1,13 @@
-# gatsby-starter-default
-The default Gatsby starter
+# gatsby-starter-dimension
+Gatsby starter based on the Dimension site template, designed by [HTML5 UP](https://html5up.net/dimension). Check out https://hunterchang.com/gatsby-starters/ for more Gatsby starters and templates.
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/)
+## Preview
+
+http://gatsby-dimension.surge.sh/
+
+## Installation
 
 Install this starter (assuming Gatsby is installed) by running from your CLI:
-```
-gatsby new gatsby-example-site
-```
+`gatsby new gatsby-starter-dimension https://github.com/ChangoMan/gatsby-starter-dimension`
 
-## Deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+Run `gatsby develop` in the terminal to start.
